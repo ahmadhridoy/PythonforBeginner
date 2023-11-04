@@ -22,5 +22,23 @@
 # print(type(l))
 # print(l)
 
-Name = 'Bodor uddin ahmad ridoy'
-print('My name is' + ' ' + Name)
+# Name = 'Bodor uddin ahmad ridoy'
+# print('My name is' + ' ' + Name)
+#
+# #boolean type
+# a = 10
+# b = 11
+#
+# print(b >= a)
+#
+# c = 10
+# C = 10
+# print(C == c)
+
+#string formating
+
+a = 35
+b = 90
+c = 9
+d = float(b)
+print(f"{a+c+d}")
